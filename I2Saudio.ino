@@ -1,7 +1,7 @@
  #include "AudioGeneratorAAC.h"
 #include "AudioOutputI2S.h"
 #include "AudioFileSourcePROGMEM.h"
-#include "sound12.h" // Should define sound_aac[] and sound_aac_len
+#include "sound1.h" // Should define sound_aac[] and sound_aac_len
 
 AudioFileSourcePROGMEM *in;
 AudioGeneratorAAC *aac;
